@@ -1,7 +1,5 @@
 # 📢 About Me
 
----
-
 ## **Introduction**
 
 - 안녕하세요! 개발자 SieR입니다.
@@ -16,8 +14,6 @@
 - Github | [https://github.com/SieR-VR](https://github.com/SieR-VR)
 
 # ⚒️ Skills
-
----
 
 ## Preferred Programming Language
 
@@ -52,8 +48,6 @@
 
 # 💻 Projects
 
----
-
 ## Orion | [https://github.com/SieR-VR/Orion](https://github.com/SieR-VR/Orion)
 
 아래의 글을 먼저 읽으시면, 이 프로젝트에 대해 이해하는 데 큰 도움이 됩니다.
@@ -71,8 +65,6 @@
 - Firebase를 이용한 알림 시스템과, Node.js를 이용한 간단한 API 서버를 구축해 런칭!
 
 # 📖 Education
-
----
 
 ## 진성고등학교
 
