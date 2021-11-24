@@ -2,8 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SieR-VR)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-score-saber.vercel.app/api?uid=76561198320985763)
-
 # 📢 About Me
 
 ## **Introduction**
@@ -19,15 +17,14 @@
 - Twitch | [https://www.twitch.tv/sier_vr](https://www.twitch.tv/sier_vr)
 - Github | [https://github.com/SieR-VR](https://github.com/SieR-VR)
 
-# ⚒️ Skills
+## [BeatFactor](https://github.com/bemusicscript/beatfactor)
 
-## Preferred Programming Language
+기존에 있던 [Scoresaber](https://scoresaber.com)의 시스템이 마음에 안들어서 만든 사이트.
 
-- **First | C, C++**
-- Second | Javascript
-- Third | Rust
-- Etc | Python, C#
+## [SingleNet](https://github.com/SieR-VR/SingleNet)
 
-## Preferred Development Environment
+C++로 처음부터 쌓아올린 머신 러닝 구현체
 
-- **Visual Studio Code (NOT Visual Studio!)**
+### [solved.ac](https://solved.ac/) tier
+
+![MyTier](MyTier.png)
