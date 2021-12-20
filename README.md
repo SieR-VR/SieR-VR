@@ -25,6 +25,10 @@
 
 C++로 처음부터 쌓아올린 머신 러닝 구현체
 
+### [Scoresaber](https://scoresaber.com) rank
+
+![](https://github-readme-score-saber.vercel.app/api?uid=76561198320985763)
+
 ### [solved.ac](https://solved.ac/) tier
 
 ![MyTier](MyTier.png)
