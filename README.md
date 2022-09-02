@@ -17,18 +17,18 @@
 - Twitch | [https://www.twitch.tv/sier_vr](https://www.twitch.tv/sier_vr)
 - Github | [https://github.com/SieR-VR](https://github.com/SieR-VR)
 
-## [BeatFactor](https://github.com/bemusicscript/beatfactor)
+## [USC-app](https://github.com/SieR-VR/usc-app)
 
-기존에 있던 [Scoresaber](https://scoresaber.com)의 시스템이 마음에 안들어서 만든 사이트.
+[Unnamed-SDVX-Clone](https://github.com/Drewol/unnamed-sdvx-clone) 안드로이드 포팅
 
-## [SingleNet](https://github.com/SieR-VR/SingleNet)
+- Android SDK
+- NDK
+- C++, Lua, GLSL
 
-C++로 처음부터 쌓아올린 머신 러닝 구현체
+## [TypeSL](https://github.com/SieR-VR/typesl)
 
-### [Scoresaber](https://scoresaber.com) rank
+Typescript to GLSL transpiler
 
-![](https://github-readme-score-saber.vercel.app/api?uid=76561198320985763)
-
-### [solved.ac](https://solved.ac/) tier
-
-![MyTier](MyTier.png)
+- Typescript
+- GLSL
+- Typescript Compiler API
