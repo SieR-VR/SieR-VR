@@ -1,35 +1,41 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSieR-VR&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SieR-VR)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SieR-VR)](https://github.com/anuraghazra/github-readme-stats)
+
 # 📢 About Me
 
 ## **Introduction**
 
-- 안녕하세요! 개발자 SieR입니다.
-- 무언가를 만들어내는 것을 좋아해서, 개발을 택하게 되었습니다.
-- VR, AI, 더 나은 세상 만들기에 관심이 있습니다.
+Hello!
 
-## Contact & Creations
+## Contact
 
-- **Email | nwh63@naver.com**
-- Youtube | [https://www.youtube.com/channel/UCofAxf-gf2ZnfTyyxmdMC-Q](https://www.youtube.com/channel/UCofAxf-gf2ZnfTyyxmdMC-Q)
-- Twitch | [https://www.twitch.tv/sier_vr](https://www.twitch.tv/sier_vr)
+- **Email | nwh040512@gmail.com**
 - Github | [https://github.com/SieR-VR](https://github.com/SieR-VR)
 
-## [USC-app](https://github.com/SieR-VR/usc-app)
+## Tools famillar with
 
-[Unnamed-SDVX-Clone](https://github.com/Drewol/unnamed-sdvx-clone) 안드로이드 포팅
+#### Languages
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Type-Level Typescript](https://img.shields.io/badge/TypeLevel-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- Android SDK
-- NDK
-- C++, Lua, GLSL
+#### Runtime
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## [TypeSL](https://github.com/SieR-VR/typesl)
+#### Editor
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-Typescript to GLSL transpiler
+## Usally not famillar but I've tried
 
-- Typescript
-- GLSL
-- Typescript Compiler API
+#### Languages
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+
+#### Framework | Library
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
