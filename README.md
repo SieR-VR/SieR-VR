@@ -10,7 +10,7 @@ Hello!
 
 ## Contact
 
-- **Email | nwh040512@gmail.com**
+- **Email me@sier-vr.dev**
 - Github | [https://github.com/SieR-VR](https://github.com/SieR-VR)
 
 ## Tools famillar with
